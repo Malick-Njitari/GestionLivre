@@ -1,0 +1,46 @@
+table{
+    border:solid 5px rgb(43, 201, 95) ;
+    width: 100%;
+
+}
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: inherit 150px;
+}
+a.ed{
+    color: white;
+    border-radius: 10%;
+    border: solid;
+    background-color: blue;
+}
+a.su{
+    color: white;
+    border-radius: 10%;
+    border: solid;
+    background-color: red;
+
+}
+a:hover{
+    opacity: 0.5;
+}
+th{
+    background-color: black;
+    color: white;
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(17, 123, 58);
+}
+button.re{
+    color: white;
+    border-radius: 10%;
+    border: solid;
+    background-color: red;
+}
+button.su{
+    color: white;
+    border-radius: 10%;
+    border: solid;
+    background-color: blue;
+
+}
